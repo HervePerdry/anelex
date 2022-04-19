@@ -1,0 +1,13 @@
+Package: anelex
+Type: Package
+Title: What the Package Does in One 'Title Case' Line
+Version: 1.0
+Date: 2022-04-19
+Author: Hervé Perdry
+Maintainer: Hervé Perdry <herve.perdry@universite-paris-saclay.fr>
+Description: One paragraph description of what the package does as one
+        or more full sentences.
+License: GPL (>= 2)
+Imports: methods, Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppEigen
+Encoding: UTF-8
